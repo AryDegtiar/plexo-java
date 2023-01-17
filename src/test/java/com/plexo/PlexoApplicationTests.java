@@ -1,4 +1,4 @@
-package java.plexo;
+package com.plexo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
